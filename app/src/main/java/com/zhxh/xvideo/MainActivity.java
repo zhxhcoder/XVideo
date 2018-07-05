@@ -1,4 +1,4 @@
-package com.zhxh.android.xvideo;
+package com.zhxh.xvideo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
