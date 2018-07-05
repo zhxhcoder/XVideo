@@ -43,8 +43,8 @@ public class MediaPlayerService extends Service {
     private MediaPlayer mediaPlayer;
     private WifiManager.WifiLock wifiLock;
 
-    private String[] musics = {"http://ibooker.cc/ibooker/file_packet/musics/1234.mp3",
-            "http://ibooker.cc/ibooker/file_packet/musics/2345.mp3"}; // 设置音频资源（网络）
+    private String[] musics = {"https://github.com/zhxhcoder/XVideo/blob/master/screenshots/xbutton.mp3",
+            "https://github.com/zhxhcoder/XVideo/blob/master/screenshots/xbutton.mp3"}; // 设置音频资源（网络）
     private int current_item = 0;
     private boolean isPause = false;
 
